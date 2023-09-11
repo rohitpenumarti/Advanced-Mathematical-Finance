@@ -6,7 +6,7 @@
 4. [CAPM](#capm-link)
 5. [American Option Pricing](#american-option-pricing-link)
 
-### Binomial Option Pricing of Exotic Options Using Basic Monte Carlo Methods ([link](https://github.com/rohitpenumarti/University-Projects/blob/master/Undergrad/PSTAT%20176/Homeworks/Homework%201/Penumarti.Rohit.HW1.ipynb))
+### Binomial Option Pricing of Exotic Options Using Basic Monte Carlo Methods ([link](https://github.com/rohitpenumarti/Advanced-Mathematical-Finance/blob/master/Homeworks/Homework%201/Penumarti.Rohit.HW1.ipynb))
 This assignment had a few problems involving option pricing of exotic options using monte carlo methods.
 
 The first problem asked to price an up and in barrier call using an 8-period binomial model with given parameters for the option. This option is only exercised when the maximum value during the path exceeds a certain predetermined value, B, at which point the option is 'knocked in'. I had to find number of scenarios for non-zero payoff, risk-neutral probability of being knocked in, and no arbitrage price of the call.
